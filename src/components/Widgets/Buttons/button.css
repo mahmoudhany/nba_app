@@ -1,0 +1,17 @@
+
+.blue_button{
+  background-color: #2196f3;
+  border-bottom: 1px solid #d7d7d7 ;
+}
+.blue_button button{
+  display: block;
+  padding: 9px;
+  width: 100%;
+  border: none;
+  background-color: #2196f3;
+  outline: none;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+  color: #eeeeee;
+}

@@ -1,0 +1,22 @@
+.featured_item{
+  position: relative;
+}
+.featured_item a{
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  right: 0;
+  text-decoration: none;
+}
+.featured_img img{
+  height: 330px;
+}
+.featured_title{
+  color: #ffffff;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+  font-weight: 300;
+  font-size: 28px;
+  box-sizing: border-box;
+}
